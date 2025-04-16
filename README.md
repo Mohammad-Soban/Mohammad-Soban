@@ -5,8 +5,14 @@
 🔭 I’m currently Studying Computer Science and Engineering<br>🌱 I’m currently learning Artificial Intelligence and MLOps<br>📫 How to reach me `soban1103@gmail.com` <br> 🌐 All my Technical Project are here: [Github Repo's](https://github.com/Mohammad-Soban?tab=repositories). <br> ⚡From data’s depths, I draw the light, Turning patterns into stories bright
 <!-- If `` does not works add ** Data **  in the above email id-->
 
+## 🧑‍💻 Experience:
+- **Data Analysis Intern** at [Medkart Pharmacy]() (January 2025 - Current) <br>
+- **AI Intern** at [BMV System Integrations]() (May 2024 - July 2024) <br>
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soban1103) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soban1103)
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MohammadSobanS3)
+[![Resume](https://img.shields.io/badge/Resume-Download%20Now-blue)](https://drive.google.com/file/d/1YFXJgF-w6KzaK42utc2_9gh0BhjG3bie/view?usp=sharing)
 
 
 # 💻 Tech Stack:
@@ -21,11 +27,12 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/database-%234B0082.svg?style=for-the-badge&logo=database&logoColor=white" alt="Database" />
+  <img src="https://img.shields.io/badge/postgresql-%234B0082.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgresql" />
   <img src="https://img.shields.io/badge/apache_spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
   <img src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white" alt="Scala" />
   <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-
+  <img src="https://img.shields.io/badge/DVC-%230078D4.svg?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC" />
+  <img src="https://img.shields.io/badge/apache_superset-%23000000.svg?style=for-the-badge&logo=apachesuperset&logoColor=white" alt="Apache Superset" />
 </p>
 
 
@@ -34,5 +41,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Soban&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Soban&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammad-Soban&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Soban&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+
 
 <center><b><i>Data scientist by day, innovator by night, shaping tomorrow's insights one dataset at a time.</i></b></center>
