@@ -5,15 +5,24 @@
 🔭 I’m currently Studying Computer Science and Engineering<br>🌱 I’m currently learning Artificial Intelligence and MLOps<br>📫 How to reach me `soban1103@gmail.com` <br> 🌐 All my Technical Project are here: [Github Repo's](https://github.com/Mohammad-Soban?tab=repositories). <br> ⚡From data’s depths, I draw the light, Turning patterns into stories bright
 <!-- If `` does not works add ** Data **  in the above email id-->
 
-## 🧑‍💻 Experience:
-- **Data Analysis Intern** at [Medkart Pharmacy]() (January 2025 - Current) <br>
-- **AI Intern** at [BMV System Integrations]() (May 2024 - July 2024) <br>
+# 🧑‍💻 Experience:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div> &nbsp &nbsp 🎯 <strong>Data Analysis Intern</strong> at <strong>Medkart Pharmacy</strong></div>
+  <div style="padding-right: 25px">January 2025 - Current</div>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <div> &nbsp &nbsp 🎯 <strong>AI Intern</strong> at <strong>BMV System Integrations</strong></div>
+  <div style="padding-right: 25px">May 2024 - July 2024</div>
+</div>
 
-## 🌐 Socials:
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soban1103)
-[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MohammadSobanS3)
-[![Resume](https://img.shields.io/badge/Download_Resume-blue)](https://drive.google.com/file/d/1YFXJgF-w6KzaK42utc2_9gh0BhjG3bie/view?usp=sharing)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MohammadSobanS3)
+[![Resume](https://img.shields.io/badge/Resume-blue)](https://drive.google.com/file/d/1YFXJgF-w6KzaK42utc2_9gh0BhjG3bie/view?usp=sharing)
 
+<br>
 
 # 💻 Tech Stack:
 <p align="center">
@@ -35,6 +44,7 @@
   <img src="https://img.shields.io/badge/apache_superset-%23000000.svg?style=for-the-badge&logo=apachesuperset&logoColor=white" alt="Apache Superset" />
 </p>
 
+<br>
 
 # 📊 GitHub Stats:
 [![Soban's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Soban&show_icons=true&hide_border=false&bg_color=000000&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF)]
