@@ -12,7 +12,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soban1103)
 [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/MohammadSobanS3)
-[![Resume](https://img.shields.io/badge/Resume-Download%20Now-blue)](https://drive.google.com/file/d/1YFXJgF-w6KzaK42utc2_9gh0BhjG3bie/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Download_Resume-blue)](https://drive.google.com/file/d/1YFXJgF-w6KzaK42utc2_9gh0BhjG3bie/view?usp=sharing)
 
 
 # 💻 Tech Stack:
@@ -41,8 +41,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad-Soban&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Soban&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammad-Soban&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohammad-Soban&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
 
 
 <center><b><i>Data scientist by day, innovator by night, shaping tomorrow's insights one dataset at a time.</i></b></center>
