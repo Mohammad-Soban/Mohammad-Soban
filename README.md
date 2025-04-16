@@ -6,15 +6,8 @@
 <!-- If `` does not works add ** Data **  in the above email id-->
 
 # 🧑‍💻 Experience:
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div> &nbsp &nbsp 🎯 <strong>Data Analysis Intern</strong> at <strong>Medkart Pharmacy</strong></div>
-  <div style="padding-right: 25px">January 2025 - Current</div>
-</div>
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  
-  <div> &nbsp &nbsp 🎯 <strong>AI Intern</strong> at <strong>BMV System Integrations</strong></div>
-  <div style="padding-right: 25px">May 2024 - July 2024</div>
-</div>
+🎯 <strong>Data Analysis Intern</strong> at <strong>Medkart Pharmacy</strong> --- January 2025 - Current <br>
+🎯 <strong>AI Intern</strong> at <strong>BMV System Integrations</strong> --- May 2024 - July 2024
 
 
 # 🌐 Socials:
